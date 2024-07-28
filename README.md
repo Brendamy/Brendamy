@@ -1,16 +1,13 @@
-## Hi there 👋
+## boas vindas ao meu perfil 👋
 
-<!--
-**Brendamy/Brendamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Eu sou estudante do [alura](https://ww.alura.com.br)
+- Sou `iniciante` nesse universo, Então me desculpa por cada erro; 🧡 
+ - Estou começando a me desenvolver na linguagem _JavaScript_ ;
+- 🌱 Utilizo esse espaço para mostrar meus projetos e me organizar;
 
-Here are some ideas to get you started:
+ **Importante** 
+ 
+ - 💭 meu sonho e objetivo é fazer intercambio.
+   
+  📫 `entra em contato` comigo pelo: annybrenda309@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
