@@ -9,5 +9,4 @@
  
  - 💭 meu sonho e objetivo é fazer intercambio.
    
-  📫 `entra em contato` comigo pelo: annybrenda309@gmail.com 
-
+  📫 `entra em contato` comigo pelo:     annybrenda309@gmail.com 
